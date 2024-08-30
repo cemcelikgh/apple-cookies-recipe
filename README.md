@@ -1,7 +1,7 @@
-# apple-cookies-recipe-kodluyoruz-patika
-Patika.dev HTML Ödev 3
+# apple-cookies-recipe
+Patika Beginner Frontend Web Development Path Certification Task
+<br>Apple Cookies Recipe
 
-https://www.patika.dev
-https://kodluyoruz.org/tr/kodluyoruz
+Browse: <https://cemcelikgh.github.io/apple-cookies-recipe/>
 
-![Patika Ana Sayfa](https://images2.imgbox.com/a2/53/DLjAYUvB_o.jpg)
+[![Apple Cookies Recipe Preview](./apple-cookies-recipe-preview.jpg "Browse Apple Cookies Recipe")](https://cemcelikgh.github.io/apple-cookies-recipe/)
